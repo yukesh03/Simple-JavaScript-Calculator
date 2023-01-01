@@ -1,5 +1,1 @@
-#Simple Javascript Calculator
-
-
-
-A simple JavaScript Calculator made by Yukesh
+https://harsh98trivedi.github.io/Simple-JavaScript-Calculator
